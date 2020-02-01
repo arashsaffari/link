@@ -1,0 +1,16 @@
+{
+    "name": "codeigniterext/link",
+    "description": "Create a symbolic link from writable to public",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arash Saffari",
+            "email": "arash@saffari.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CodeigniterExt\\Link\\": "src"
+        }
+    }
+}
